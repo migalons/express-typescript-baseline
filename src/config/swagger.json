@@ -1,0 +1,30 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0"
+  },
+  "host": "localhost:5000",
+  "basePath": "/api",
+  "schemes": ["http"],
+  "produces": ["application/json"],
+  "paths": {
+    "/catalog": {
+      "get": {
+        "tags": ["sample"],
+        "summary": "Sample first api. Overwrite!",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad request"
+          }
+        },
+        "content": {
+          "application/json": {}
+        },
+        "parameters": []
+      }
+    }
+  }
+}
