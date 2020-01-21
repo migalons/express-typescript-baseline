@@ -1,11 +1,14 @@
-import { Request, Response } from "express";
+import { getCatalog } from './CatalogController';
+import { Request, Response } from 'express';
 
 export default [
     {
-        path: "/api/catalog",
+        path: "/api/catalog/:id",
         method: "get",
-        handler: async (req: Request, res: Response) => {
-            res.send("Hello world!");
-        }
+        handler: [
+            (req: Request, res: Response) => {
+                res.json(getCatalog(req.params.id))
+            }
+        ]
     }
 ];

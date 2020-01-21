@@ -1,0 +1,294 @@
+{
+  "1": [
+    {
+      "id": "1",
+      "description": "CIF"
+    },
+    {
+      "id": "3",
+      "description": "NIE"
+    },
+    {
+      "id": "5",
+      "description": "NIF"
+    }
+  ],
+  "15": [
+    {
+      "id": "49",
+      "description": "Autorización BTP"
+    },
+    {
+      "id": "51",
+      "description": "Otros"
+    },
+    {
+      "id": "52",
+      "description": "Permiso A"
+    },
+    {
+      "id": "1186",
+      "description": "Permiso AM"
+    },
+    {
+      "id": "50",
+      "description": "Permiso A-1"
+    },
+    {
+      "id": "1187",
+      "description": "Permiso A2"
+    },
+    {
+      "id": "55",
+      "description": "Permiso B"
+    },
+    {
+      "id": "54",
+      "description": "Permiso C-1 y C"
+    },
+    {
+      "id": "56",
+      "description": "Permiso D-1 y D"
+    },
+    {
+      "id": "53",
+      "description": "Permiso E"
+    }
+  ],
+  "51": [
+    {
+      "id": "640",
+      "description": "No"
+    },
+    {
+      "id": "641",
+      "description": "Si, nuevo"
+    },
+    {
+      "id": "638",
+      "description": "Si, 2ª mano compra concesionario"
+    },
+    {
+      "id": "639",
+      "description": "Si, 2ª mano compra particular"
+    }
+  ],
+  "85": [
+    {
+      "id": "909",
+      "description": "Terceros"
+    },
+    {
+      "id": "912",
+      "description": "Terceros Lunas"
+    },
+    {
+      "id": "910",
+      "description": "Terceros Lunas, Robo e Incendio"
+    },
+    {
+      "id": "908",
+      "description": "Todo Riesgo con Franquicia"
+    },
+    {
+      "id": "911",
+      "description": "Todo Riesgo sin Franquicia"
+    }
+  ],
+  "91": [
+    {
+      "id": "945",
+      "description": "1. Básico"
+    },
+    {
+      "id": "946",
+      "description": "2. Básico + Lunas"
+    },
+    {
+      "id": "947",
+      "description": "3. Combinado"
+    },
+    {
+      "id": "948",
+      "description": "4. Todo Riesgo con Franquicia"
+    },
+    {
+      "id": "949",
+      "description": "5. Todo Riesgo sin Franquicia"
+    },
+    {
+      "id": "1236",
+      "description": "6. Combinado con Franquicia"
+    }
+  ],
+  "150": [
+    {
+      "id": "1246",
+      "description": "ADMIRAL "
+    },
+    {
+      "id": "1259",
+      "description": "ALLIANZ "
+    },
+    {
+      "id": "1280",
+      "description": "A.M.A. "
+    },
+    {
+      "id": "1262",
+      "description": "ASEGURADORA UNIVERSAL "
+    },
+    {
+      "id": "1254",
+      "description": "AXA "
+    },
+    {
+      "id": "1241",
+      "description": "BBVA "
+    },
+    {
+      "id": "1264",
+      "description": "CASER "
+    },
+    {
+      "id": "1257",
+      "description": "CATALANA OCCIDENTE "
+    },
+    {
+      "id": "1248",
+      "description": "CG CAR "
+    },
+    {
+      "id": "1255",
+      "description": "DIRECT "
+    },
+    {
+      "id": "1251",
+      "description": "FENIX DIRECTO "
+    },
+    {
+      "id": "1276",
+      "description": "FIATC "
+    },
+    {
+      "id": "1265",
+      "description": "FIDELIDADE "
+    },
+    {
+      "id": "1271",
+      "description": "GENERALI SEGUROS "
+    },
+    {
+      "id": "1240",
+      "description": "GENESIS "
+    },
+    {
+      "id": "1258",
+      "description": "GES SEGUROS "
+    },
+    {
+      "id": "1267",
+      "description": "HELVETIA "
+    },
+    {
+      "id": "1268",
+      "description": "LA UNION ALCOYANA "
+    },
+    {
+      "id": "1249",
+      "description": "LAGUN ARO "
+    },
+    {
+      "id": "1256",
+      "description": "LIBERTY "
+    },
+    {
+      "id": "1253",
+      "description": "LINEA DIRECTA "
+    },
+    {
+      "id": "1270",
+      "description": "MAPFRE "
+    },
+    {
+      "id": "1239",
+      "description": "MGS SEGUROS "
+    },
+    {
+      "id": "1244",
+      "description": "M.M.A. "
+    },
+    {
+      "id": "1245",
+      "description": "M.M.T. "
+    },
+    {
+      "id": "1275",
+      "description": "MUSSAP "
+    },
+    {
+      "id": "1279",
+      "description": "MUTUA TINERFEÑA "
+    },
+    {
+      "id": "1277",
+      "description": "MUTUALIDAD DE LEVANTE "
+    },
+    {
+      "id": "1274",
+      "description": "MUTUAVENIR "
+    },
+    {
+      "id": "1261",
+      "description": "NACIONAL SUIZA "
+    },
+    {
+      "id": "1243",
+      "description": "PELAYO "
+    },
+    {
+      "id": "1242",
+      "description": "PLUS ULTRA "
+    },
+    {
+      "id": "1266",
+      "description": "PREVENTIVA "
+    },
+    {
+      "id": "1252",
+      "description": "RACC SEGUROS "
+    },
+    {
+      "id": "1250",
+      "description": "REALE "
+    },
+    {
+      "id": "1272",
+      "description": "RESTO DE COMPAÑIAS "
+    },
+    {
+      "id": "1269",
+      "description": "SANTANDER SEGUROS "
+    },
+    {
+      "id": "1260",
+      "description": "SEGURCAIXA "
+    },
+    {
+      "id": "1263",
+      "description": "SEGUROS BILBAO "
+    },
+    {
+      "id": "1278",
+      "description": "SOLISS "
+    },
+    {
+      "id": "1238",
+      "description": "VERTI "
+    },
+    {
+      "id": "1247",
+      "description": "ZURICH "
+    }
+  ]
+}
